@@ -5,9 +5,9 @@ Peer-to-peer instant messaging over TCP
 
 ## Features
 * Peer-to-peer messaging
-* Contacts (to do)
-* Graphical user interface (to do)
-* Encrypted messages (to do)
+* *Contacts* (to do)
+* *Graphical user interface* (to do)
+* *Encrypted messages* (to do)
 
 ***
 
