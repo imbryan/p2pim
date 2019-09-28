@@ -4,7 +4,7 @@ Peer-to-peer instant messaging over TCP
 ***
 
 ## Features
-* Peer-to-peer messaging (to do)
+* Peer-to-peer messaging
 * Contacts (to do)
 * Graphical user interface (to do)
 * Encrypted messages (to do)
@@ -12,4 +12,6 @@ Peer-to-peer instant messaging over TCP
 ***
 
 ## Changelog
-* v0.0 - start of beta
+* **v0.1** - start of beta
+  * Implemented command-line peer-to-peer messaging
+* **v0.0** - initialization
