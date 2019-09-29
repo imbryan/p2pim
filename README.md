@@ -5,7 +5,7 @@ Peer-to-peer instant messaging over TCP
 
 ## Features
 * Peer-to-peer messaging
-  * IP address based (will think of a better system soon)
+  * Need to know recipient's IP address (will think of a better system soon)
 * *Contacts* (to do)
 * *Graphical user interface* (to do)
 * *Encrypted messages* (to do)
