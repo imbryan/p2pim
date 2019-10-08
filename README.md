@@ -1,11 +1,12 @@
-# P2PIM
+# P2PIM (working name)
 Peer-to-peer instant messaging over TCP
 
 ***
 
 ## Features
 * Peer-to-peer messaging
-  * Need to know recipient's IP address (will think of a better system soon, hopefully a distributed ledger)
+  * Must know recipient's IP address (current system) 
+  * *Can message using screen names* (to do)
 * *Contacts* (to do)
 * *Graphical user interface* (to do)
 * *Encrypted messages* (to do)
